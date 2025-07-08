@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mlhr2212
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently a Student at SF state
-- 💞️ I’m looking to collaborate on Beginner Projects
+- 🌱 I’m currently a Computer Science Student at SF state
+- 💞️ I’m looking to collaborate on projects related to Web Development And Cloud
 - 😄 Pronouns: he/him
 
 
