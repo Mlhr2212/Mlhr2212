@@ -12,8 +12,6 @@ Hi, I’m @Mlhr2212<br>👀 I’m interested in Cloud Engineering<br>🌱 I’m 
 ![](https://nirzak-streak-stats.vercel.app/?user=Mlhr2212&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mlhr2212&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
